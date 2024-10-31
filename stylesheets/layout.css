@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body {
+   width: 1280px;
+   display: block; 
+   margin: 0 auto;
+   font-family: 'Aeroport';
+}
